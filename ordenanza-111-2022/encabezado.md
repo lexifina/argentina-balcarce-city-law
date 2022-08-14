@@ -1,0 +1,26 @@
+Ordenanza Nº111/22
+Ordenanza Nº 111/22
+Balcarce, 23/06/2022
+VISTO:
+El Expediente Nº 7110/B/2022, iniciado por la Empresa ASHIRA S.A, referente a la “Redeterminación de Precios del Contrato de Higiene Urbana”, y
+CONSIDERANDO:
+Que según Licitación Publica Nº 07/19 se adjudicó la Contratación por los Servicios de Higiene Urbana en Balcarce a la Empresa ASHIRA S.A a partir del 01/02/2020 en el marco de lo dispuesto por las Ordenanza Nº 04/20, Ordenanza Nº 5/2020, Decreto Municipal Nº 119/2020, Decreto Municipal Nº 118/2020 y Decreto Municipal Nº119/2020.
+Que según Contrato de Locación Celebrado entre la Municipalidad de Balcarce y la Empresa Ashira SA., aprobado mediante Decreto Municipal Nº 283/2020, se contrataron los Servicios de Higiene Urbana.
+Que el precio de Contratación mensual ascendía a $ 6.110.500,00.
+Que según Decreto Municipal Nº 2167/2020 se aprobó la REDETERMINACIÓN DE PRECIOS retroactiva al 1º DE MAYO DE 2020 siendo el precio recompuesto mensual de PESOS SEIS MILLONES SEISCIENTOS NOVENTA Y NUEVE MIL QUINIENTOS CINCUENTA Y DOS CON VEINTE CENTAVOS ($ 6.699.552,20)) (Expte 4008/1831/A /2020)
+Que según nota recibida en la Oficina de Mesa de Entrada con fecha 05/10/2020, la Empresa solicitó una nueva Predeterminación de Precios retroactiva al 1º de Agosto de 2020 alegando que se han generado nuevos aumentos en la mano de obra que deben emplear en la ejecución del servicio como así también en los insumos,
+Que según Decreto Municipal Nº 2526/2020 se aprobó la REDETERMINACIÓN DE PRECIOS retroactiva al 1º DE OCTUBRE DE 2020 (a la fecha de presentación de solicitud) siendo precio recompuesto mensual de PESOS SIETE MILLONES SEISCIENTOS SESENTA MIL DOSCIENTOS SESENTA Y SIETE CON NOVENTA Y NUEVE CENTAVOS ($ 7.660.267,99)
+Que según Ordenanza Nº 44/21 y Decreto Municipal Nº 819/21 se autorizó al Departamento Ejecutivo a reconocer la deuda contraída con ASHIRA S.A, respecto a “REDETERMINACION DE PRECIOS DEL CONTRATO DE HIGIENE URBANA – LICITACION PUBLICA 07/19”, y a efectuar el pago de la deuda por $ 5.537.883,83
+Que según Ordenanza Nº 73/21 se autorizó al Departamento Ejecutivo a reconocer la deuda contraída con ASHIRA S.A, respecto a “REDETERMINACION DE PRECIOS DEL CONTRATO DE HIGIENE URBANA – LICITACION PUBLICA 07/19 – (diferencia según lo dispuesto por la Ord 44/21)” y a efectuar el pago de la deuda por $ 558.229,80
+Que según Decreto Municipal nº 939/2021 se aprobó la REDETERMINACIÓN DE PRECIOS FINAL al Contrato de Locación del Servicio de Higiene Urbana retroactiva al 1º de OCTUBRE de 2020, por un monto total de PESOS OCHO MILLONES TRESCIENTOS ONCE MIL CUATROCIENTOS VEINTE UNO CON CUARENTA Y DOS CENTAVOS ($ 8.311.421,42)
+Que según Decreto Municipal nº 1310/2021 se aprobó la REDETERMINACIÓN DE PRECIOS FINAL al Contrato de Locación del Servicio de Higiene Urbana retroactiva al 1º de Febrero de 2021, por un monto total de PESOS NUEVE MILLONES TRESCIENTOS VEINTIÚN MIL DOSCIENTOS CINCUENTA Y NUEVE CON DOCE CENTAVOS ($ 9.321.259,12)
+Que según Decreto Municipal nº 1641/2021 se aprobó la REDETERMINACIÓN DE PRECIOS FINAL al Contrato de Locación del Servicio de Higiene Urbana retroactiva al 1º de Abril de 2021, por un monto total de PESOS NUEVE MILLONES NOVECIENTOS CINCUENTA Y CUATRO MIL CIENTOS SETENTA Y DOS CON SESENTA Y UN CENTAVOS ($ 9.954.172,61)
+Que según Decreto Municipal nº 2217/2021 se aprobó la REDETERMINACIÓN DE PRECIOS FINAL al Contrato de Locación del Servicio de Higiene Urbana retroactiva al 1º de Julio de 2021, por un monto total de PESOS ONCE MILLONES CUATROCIENTOS OCHENTA Y DOS MIL CIENTO TREINTA Y OCHO CON ONCE CENTAVOS ($ 11.482.138,11)
+Que según Decreto Municipal nº 3319/2021 se aprobó la REDETERMINACIÓN DE PRECIOS al Contrato de Locación del Servicio de Higiene Urbana retroactiva al 1º de Noviembre de 2021, por un monto total de PESOS DOCE MILLONES QUINIENTOS NOVENTA Y CINCO MIL NOVECIENTOS CINCO CON CINCUENTA Y UN CENTAVOS ($ 12.595.905,51)
+Que según Decreto Municipal nº 1123/2022 se aprobó la REDETERMINACIÓN DE PRECIOS al Contrato de Locación del Servicio de Higiene Urbana retroactiva al 1º de Febrero de 2022, por un monto total de PESOS TRECE MILLONES DOSCIENTOS VEINTINUEVE MIL CUATROCIENTOS SETENTA Y NUEVE CON CINCUENTA Y CINCO CENTAVOS ($ 13.229.479,55)
+Que con fecha 26 de Abril la Empresa ha presentado un nueva redeterminación
+Que la Contadora Municipal expone que “según la documentación aportada, es posible avalar la recomposición de precios solicitada por la Empresa Ashira SA en el porcentaje del 8.35% desde el mes de Marzo
+Que según Decreto Municipal nº 1123 de fecha 25 de Abril de 2022 se aprobó la REDETERMINACIÓN DE PRECIOS al Contrato de Locación del Servicio de Higiene Urbana retroactiva al 01 de Marzo de 2022, siendo la incidencia incremental del 8.35 % en relación al precio vigente del contrato ($ 13.229.479,55) es decir un incremento de PESOS UN MILLÓN CIENTO CUATRO MIL SEISCIENTOS SESENTA Y UNO CON CINCUENTA Y CUATRO CENTAVOS ($ 1.104.661,54). El precio recompuesto mensual será de PESOS CATORCE MILLONES TRESCIENTOS TREINTA Y CUATRO MIL CIENTO CUARENTA Y UNO CON NUEVE CENTAVOS ($ 14.334.141.09)
+POR ELLO:
+El Honorable Concejo Deliberante del Partido de Balcarce, en uso de sus atribuciones, sanciona la siguiente:
+ORDENANZA
