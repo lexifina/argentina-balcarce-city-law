@@ -1,0 +1,15 @@
+Ordenanza Nº51/23
+Ordenanza Nº 51/23
+Balcarce, 23/03/2023
+VISTO:
+El Decreto Municipal Nº 0533, de fecha 16 de febrero de 2023, y
+CONSIDERANDO:
+Que el citado acto administrativo se dicta en marco del Expediente Nº 4008-8718/A/2018 caratulado “SOLICITUD DE PRESCRIPCIÓN ADQUISITIVA DE INMUEBLE DE LA MUNICIPALIDAD DE BALCARCE A TRAVÉS DE LA ESCRIBANIA GENERAL DE GOBIERNO DE BUENOS AIRES, POR LEY 24.320, NOMENCLATURA CATASTRAL: CIRC. 9 – SECC. B – QUINTA 15 – MZA 15B – PARCELA 1 A 18”, iniciado por la Dirección de Regularización Dominial dependiente de la Municipalidad de Balcarce, de trámite por ante la Escribanía General de Gobierno de la Provincia de Buenos Aires.-
+Que en virtud de ello se procedió a aceptar la cesión con cargo, efectuada por la Sra. Nélida Ester Marchena DNI. Nº 11.963.715, a favor de la Municipalidad de Balcarce, con referencia a los inmuebles identificados parcelariamente por la Nomenclatura Catastral que a continuación se detalla: Circunscripción 9, Sección B, Quinta Nº 15, Manzana Nº 15 Letra B, Parcelas Nº 1, 2, 3, 4, 5, 6, 7, 8, 11, 12, 13, 14, 15, 16, 17 y 18 del Partido de Balcarce.-
+El mismo referencia, que convalidada la cesión con cargo por parte del Honorable Concejo Deliberante, se declarará la prescripción adquisitiva sobre los inmuebles mencionados, en virtud de haberse acreditado la posesión continua, cedida a la Municipalidad de Balcarce, durante más de veinte años sobre los inmuebles.-
+Oportunamente, y en el caso que correspondiera deberá tramitarse el correspondiente plano de prescripción adquisitiva por medio de la Ley 24.320, Decreto-Ley Nº 9533/80 y la DTR Nº 1/1982, debiendo ser enviado posteriormente a la Escribanía General de Gobierno de la Provincia de Buenos Aires a los fines de su registración a favor de la Municipalidad y la cancelación de las actuales inscripciones que constan Folio 169 Año 1953 a favor del Sr. José Ferrero; Folio 308 Año 1948 a favor de los Sres. Miguel Marut, Juan Rilo y Juan Michalec; Folio 281 Nº 1956 a favor del Sr. Lorenzo Beresiarte; Folio 260 Año 1961 a favor del Sr. Francisco Lorenzo; Folio 246 Año 1950 a favor del Sr. Blas Hugo Adobbati; Folio 46 Año 1950 a favor del Sr. Jacinto José Iglesias y Folio 214 Año 1950 a favor de los Sres. Amadeo Pili y María Eugenia Repetto.-
+Cabe dejar de manifiesto que el cargo acordado, consiste en que una vez concretada la inscripción de dominio a nombre de la Municipalidad de Balcarce, por la vía autorizada por la Ley 24.320, se transferirán DOCE (12) lotes a la cedente, Sra. Marchena, los cuales se identifican catastralmente como se detalla a continuación: Circunscripción 9, Sección B, Quinta Nº 15, Manzana Nº 15 Letra B, Parcelas Nº 1, 2, 3, 4, 5, 6, 7, 8, 11, 12, 13 y 14 del Partido de Balcarce.-
+Que el Decreto Municipal Nº 0533, de fecha 16 de febrero de 2023 fue suscripto ad-referendum del Honorable Concejo Deliberante.-
+POR ELLO:
+El Honorable Concejo Deliberante del Partido de Balcarce, en uso de sus atribuciones, sanciona la siguiente:
+ORDENANZA
