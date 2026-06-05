@@ -1,0 +1,13 @@
+Ordenanza Nº50/26
+Ordenanza Nº 50/26
+Balcarce, 23/04/2026
+VISTO:
+El Expediente Administrativo Nº 8633/B/2026, caratulado “SOLICITUD DE RESCICION DE BOLETO DE COMPRAVENTA Y EXIMICION CARLOS MARTIN LUNA MORALES”, y
+CONSIDERANDO:
+En fecha de 10 de Julio de 2025, el Sr. Carlos Martín Morales, suscribió Boleto de Compraventa, en razón de haber resultado triunfador en el sorteo realizado en acto público celebrado el día 2 de Julio de 2025, en el Teatro Municipal “Luis Conti”.-
+En fecha de 31 de Octubre de 2025, el Sr. Morales, suscribió adenda del instrumento mencionado en párrafo anterior, con un reajuste de sus cláusulas de pagos autorizado por el Honorable Concejo Deliberante por Ordenanza 160/25.-
+En fecha de 6 de abril de 2026, el Sr. Luna Morales acudió a las oficinas de la Dirección de Regularización Dominial y manifestó que por problemas económicos personales no contaba con los fondos para realizar los pagos del lote que le fuera adjudicado. Por ende solicitaba rescindir el Boleto de Compraventa que suscribió y su respectiva adenda. Asimismo requería que el Honorable Concejo Deliberante lo exima de las multas establecidas en el Artículo 4 de la Ordenanza 75/25.-
+En fecha de 15 de abril la Dirección de Regularización Dominial sugirió: “Atento que la solicitud efectuada por el adjudicatario descripta “ut supra”, resulta una excepción a la Ordenanza 75/25, que autorizo la venta de 227 lotes, y que fijo las condiciones en las que debería realizarse, esta Dirección de Regularización Dominial recomienda elevar las actuaciones al Honorable Concejo Deliberante para que analice eximir las multas fijadas en la mentada normativa. A tales efectos se sugiere que se tenga en consideración que el espíritu de la Ordenanza 75/25 es el de facilitar el acceso a la tierra de vecinos, que no pueden pagar los precios establecidos en el mercado, pero que con sus aportes se solventan las obras de sus propios lotes. Por ende siendo las multas un elemento secundario, impuesto únicamente como instrumento de desaliento a especulaciones o movimientos imprudentes de los que podrían perjudicar a la comuna. En el caso de marras, es importante destacar que el Sr. Luna Morales, según sus palabras, atraviesa problemas económicos personales, por lo que se ve impedido de pagar las obligaciones que asumió. Por ende eximirlo de la mencionada sanción, “prima facie” parecería una medida justa, que no incurre en un acto de falta de equidad con los demás vecinos, como sería el otorgamiento gratuito del lote”.-
+POR ELLO:
+El Honorable Concejo Deliberante del Partido de Balcarce en uso de sus atribuciones, sanciona la siguiente:
+ORDENANZA
