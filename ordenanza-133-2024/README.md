@@ -1,0 +1,9 @@
+# Ordenanza 133/2024: Convalídase lo actuado por el Departamento Ejecutivo mediante Decreto Municipal Nº 2627 de fecha 5 de agosto de 2024, según constancias obrantes en el Expediente Nº 4375-B/2024.
+
+Ordenanza 133/2024 · 1 versions, from 2024-10-11 (latest in force: 2024-10-11) · <https://sibom.slyt.gba.gob.ar/bulletins/11316/contents/2105539>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Artículo 1 | [art-001.md](art-001.md) | 0 |  |
+| Artículo 2 | [art-002.md](art-002.md) | 0 |  |
+| Encabezado | [encabezado.md](encabezado.md) | 0 |  |
