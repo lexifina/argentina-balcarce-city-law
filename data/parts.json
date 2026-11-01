@@ -214,6 +214,21 @@
     "ordenanza-99-2026"
    ],
    "sha256": "c85b4ee428ef4d4448347d43ec27c910c11d3084dfe97882ffee98ff4165e039"
+  },
+  "34-ordenanzas-05.json": {
+   "acts": [
+    "ordenanza-110-2019",
+    "ordenanza-111-2022",
+    "ordenanza-112-2019",
+    "ordenanza-113-2022",
+    "ordenanza-114-2019",
+    "ordenanza-115-2019",
+    "ordenanza-117-2019",
+    "ordenanza-121-2019",
+    "ordenanza-128-2019",
+    "ordenanza-132-2019"
+   ],
+   "sha256": "f002e89dbce50f8fb94c7be5ef0109da3467fc517077cca0abe43b542e1d01da"
   }
  },
  "schema": 1

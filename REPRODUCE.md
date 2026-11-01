@@ -209,20 +209,30 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ordenanza-159-2026` | Ordenanza 159/2026: Autorícese al Departamento Ejecutivo a suscribir una adenda al Boleto de Compraventa y un plan de pagos especial con el Sr. Carlos Gabriel Pereyra, respecto del lote catastralmente identificado como Circunscripción: XI,  | 1 | 2026-11-07 to 2026-11-07 |
 | `ordenanza-160-2026` | Ordenanza 160/2026: Autorízase al Departamento Ejecutivo Municipal a registrar la deuda contraída con COOPERATIVA DE ELECTRICIDAD GENERAL BALCARCE LIMITADA, respecto a ““RECONOCIMIENTO DE DEUDA POR SERVICIO ELÉCTRICO EN INMUEBLE SITO EN CAL | 1 | 2026-11-07 to 2026-11-07 |
 | `ordenanza-168-2026` | Ordenanza 168/2026: Convalídase lo actuado por el Decreto Municipal N° 3102/26, mediante el cual se aprueba el Convenio de Cooperación suscripto entre el Ministerio de Mujeres y Diversidad de la Provincia de Buenos Aires, representado en es | 1 | 2026-11-07 to 2026-11-07 |
+| `ordenanza-110-2019` | Ordenanza 110/2019: Autorízase al Departamento Ejecutivo a Registrar la Deuda contraída con | 1 | 2019-09-26 to 2019-09-26 |
+| `ordenanza-112-2019` | Ordenanza 112/2019: Objeto y finalidad. La presente ordenanza tiene por objeto prohibir la | 1 | 2019-09-26 to 2019-09-26 |
+| `ordenanza-114-2019` | Ordenanza 114/2019: Autorízase al Departamento Ejecutivo a contabilizar y pagar, a favor del | 1 | 2019-09-26 to 2019-09-26 |
+| `ordenanza-115-2019` | Ordenanza 115/2019: Autorízase al Departamento Ejecutivo Municipal a registrar la deuda | 1 | 2019-09-26 to 2019-09-26 |
+| `ordenanza-117-2019` | Ordenanza 117/2019: Convalídase lo actuado por el Departamento Ejecutivo mediante el | 1 | 2019-09-26 to 2019-09-26 |
+| `ordenanza-121-2019` | Ordenanza 121/2019: Convalídase lo actuado por el Organismo Descentralizado Hospital | 1 | 2019-09-26 to 2019-09-26 |
+| `ordenanza-128-2019` | Ordenanza 128/2019: Incorpórase a la Ordenanza Fiscal vigente para el ejercicio 2019 el | 1 | 2019-09-26 to 2019-09-26 |
+| `ordenanza-132-2019` | Ordenanza 132/2019: Incorpórase a la Ordenanza Impositiva vigente para el ejercicio 2019 el | 1 | 2019-09-26 to 2019-09-26 |
+| `ordenanza-111-2022` | Ordenanza 111/2022: Convalídase lo actuado por el Departamento Ejecutivo mediante Decreto Municipal Nº 1539 de fecha 03 de Junio de 2022, según constancias obrantes en Expediente Nº 7110/B/2022.- | 1 | 2022-08-14 to 2022-08-14 |
+| `ordenanza-113-2022` | Ordenanza 113/2022: Delimítese estacionamiento reservado en amplitud al frente del inmueble, sito en calle 17 N° 741, que son solicitados por motivos de seguridad vial; solo para ascenso y descenso de pasajeros comprendido entre los días de | 1 | 2022-08-14 to 2022-08-14 |
 
-The build made 195 commits:
+The build made 205 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 195 | first version of an act |
+| 205 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 8 commits on the branch `futuro`: laws not yet in force on 2026-11-01.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 195 laws in the record.
-- 391 tags.
+- 205 laws in the record.
+- 411 tags.
 
 ## Dates
 
@@ -234,15 +244,15 @@ When a law gives no date of its own, the default rule applies: An ordinance take
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `9bc99b013dbc64af30c0592ba238cb0d586bb2fc1e4ce12877fb3986d136cc1d` (1395026 bytes).
+- Corpus: sha256 `779d6e42df52cd98dac9c6743fc67663c331830c4af39b07e81fa0464290a284` (1460546 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
-195 versions of 195 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
-No second build of this corpus has been compared yet.
+A second build from the same corpus into an empty folder gave identical hashes for all 197 history commits and 410 tags (history tip `c2afd55310f3affccaac19672deb7f112a32e063`).
 
 ## Decisions made by hand
 
