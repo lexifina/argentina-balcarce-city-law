@@ -5,7 +5,7 @@
   "level": "municipality",
   "parent": "ar-b",
   "repo": "https://github.com/lexifina/argentina-balcarce-city-law",
-  "build": "built: municipal ordinances (195 ordinances, 195 versions) from https://sibom.slyt.gba.gob.ar/cities/10",
+  "build": "built: municipal ordinances (205 ordinances, 205 versions) from https://sibom.slyt.gba.gob.ar/cities/10",
   "language": "es",
   "sources": 1
 }

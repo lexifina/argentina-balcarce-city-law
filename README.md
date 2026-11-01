@@ -8,7 +8,7 @@ The text is in Spanish, exactly as the source prints it.
 
 ## What this repository holds
 
-195 ordinances so far, in force from 14 August 2022 to 7 November 2026, each as published in the Boletín Oficial Municipal de Balcarce, added in parts.
+205 ordinances so far, in force from 26 September 2019 to 7 November 2026, each as published in the Boletín Oficial Municipal de Balcarce, added in parts.
 
 | Folder | Ordinance | History |
 | --- | --- | --- |
@@ -207,6 +207,17 @@ The text is in Spanish, exactly as the source prints it.
 | `ordenanza-159-2026/` | Ordenanza 159/2026: Autorícese al Departamento Ejecutivo a suscribir una adenda al Boleto de Compraventa y un plan de pagos especial con el Sr. Carlos Gabriel P… | in force 7 November 2026 |
 | `ordenanza-160-2026/` | Ordenanza 160/2026: Autorízase al Departamento Ejecutivo Municipal a registrar la deuda contraída con COOPERATIVA DE ELECTRICIDAD GENERAL BALCARCE LIMITADA, res… | in force 7 November 2026 |
 | `ordenanza-168-2026/` | Ordenanza 168/2026: Convalídase lo actuado por el Decreto Municipal N° 3102/26, mediante el cual se aprueba el Convenio de Cooperación suscripto entre el Minist… | in force 7 November 2026 |
+
+| `ordenanza-110-2019/` | Ordenanza 110/2019: Autorízase al Departamento Ejecutivo a Registrar la Deuda contraída con | in force 26 September 2019 |
+| `ordenanza-112-2019/` | Ordenanza 112/2019: Objeto y finalidad. La presente ordenanza tiene por objeto prohibir la | in force 26 September 2019 |
+| `ordenanza-114-2019/` | Ordenanza 114/2019: Autorízase al Departamento Ejecutivo a contabilizar y pagar, a favor del | in force 26 September 2019 |
+| `ordenanza-115-2019/` | Ordenanza 115/2019: Autorízase al Departamento Ejecutivo Municipal a registrar la deuda | in force 26 September 2019 |
+| `ordenanza-117-2019/` | Ordenanza 117/2019: Convalídase lo actuado por el Departamento Ejecutivo mediante el | in force 26 September 2019 |
+| `ordenanza-121-2019/` | Ordenanza 121/2019: Convalídase lo actuado por el Organismo Descentralizado Hospital | in force 26 September 2019 |
+| `ordenanza-128-2019/` | Ordenanza 128/2019: Incorpórase a la Ordenanza Fiscal vigente para el ejercicio 2019 el | in force 26 September 2019 |
+| `ordenanza-132-2019/` | Ordenanza 132/2019: Incorpórase a la Ordenanza Impositiva vigente para el ejercicio 2019 el | in force 26 September 2019 |
+| `ordenanza-111-2022/` | Ordenanza 111/2022: Convalídase lo actuado por el Departamento Ejecutivo mediante Decreto Municipal Nº 1539 de fecha 03 de Junio de 2022, según constancias obrantes en Expediente Nº 7110/B/2022.- | in force 14 August 2022 |
+| `ordenanza-113-2022/` | Ordenanza 113/2022: Delimítese estacionamiento reservado en amplitud al frente del inmueble, sito en calle 17 N° 741, que son solicitados por motivos de seguridad vial; solo para ascenso y descenso de pasajeros comprendido entr… | in force 14 August 2022 |
 
 ## Source
 
