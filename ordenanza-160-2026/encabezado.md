@@ -1,0 +1,17 @@
+Ordenanza Nº160/26
+Ordenanza Nº 160/26
+Balcarce, 08/10/2026
+VISTO:
+Las actuaciones que tramitan por Expediente Nº 9818/B/2026 en referencia al “RECONOCIMIENTO DE DEUDA CON COOPERATIVA DE ELECTRICIDAD GENERAL BALCARCE LIMITADA POR SERVICIO ELÉCTRICO EN INMUEBLE SITO EN CALLE 30 Nº 732 (BIEN ADQUIRIDO POR LA ADMINISTRACION CENTRAL Y TRANSFERIDO AL HOSPITAL” y
+CONSIDERANDO:
+Que a fs 02/03 se adjuntan Facturas Nº 009-03907058 y Nº 009-03945654 remitidas por el Hospital Subzonal respecto al Servicio Nº 391200.-
+Que a través de las actuaciones obrantes en Expte Nº 6981/B/2025 y lo dispuesto según Ordenanza Nº 120/2025, promulgada según Decreto Municipal nº 2900/2025, se autorizó al D.E a efectuar la compra del inmueble identificado catastralmente como: C.I- Secc B- Mza 172- Parc 4b, sito en calle 30 nº 732.-
+Que la Actuación Notarial correspondiente a dicha compra tiene fecha 04/09/2025, y el boleto de compra-venta fecha 27/08/2025.-
+Que con fecha 30/12/2026, según Decreto Municipal Nº 4467/25, se procedió a la baja del bien inventariado en la Administración Central por transferencia Externa al Hospital Subzonal.-
+Que quedaron pendiente de pago las facturas correspondientes al servicio de electricidad por el periodo facturado correspondiente a los meses noviembre y diciembre, época que aún no fuese transferido el organismo descentralizado.-
+Que desde el Organismo Descentralizado Hospital Subzonal se certificó el cumplimiento del servicio en cuestión.-
+Que Contaduría Municipal informa que la deuda reclamada no se encuentra registrada en la Contabilidad Municipal, por lo que debe darse a la misma el tratamiento previsto en los Artículos 140º y 141º del Reglamento de Contabilidad y Art. 54º del Decreto Provincial Nº 2980/00, a saber: “…El Departamento Ejecutivo no podrá reconocer deudas de ejercicios anteriores no registradas en la contabilidad municipal, sin previa comprobación – hecha en expediente especial – de la legitimidad del derecho invocado por el acreedor. Cumplido este paso, para abonar la deuda deberá requerir y obtener autorización del Concejo. En el precitado expediente se acumularán todas las constancias que posea la comuna (autoridades, funcionarios o empleados que dispusieron el gasto, fecha del compromiso, etc.), y se le agregarán los pedidos de suministros, órdenes de compra y todo otro documento que permita fijar con exactitud la Administración que dio origen a la deuda; como, asimismo, la indudable recepción de los efectos adquiridos o la real prestación de los servicios cuyo pago se reclama. Además, se indicará la imputación que hubiera correspondido al gasto en el Presupuesto del año de origen. Cumplidos todos los requisitos precedentes, se dará vista a quien haya estado a cargo del Departamento Ejecutivo en la fecha de contratación del compromiso o, en su defecto, se documentará la imposibilidad de hacerlo. Cubierto estos recaudos, el Departamento Ejecutivo, solicitará del Concejo Deliberante autorización para registrar la deuda y efectuar el pago. Simultáneamente, se comunicará al Tribunal de Cuentas a los efectos que corresponda…”.-
+Que el importe adeudado asciende a $ 44.538.22 Que el Intendente Municipal, DR Esteban Andrés Reino, ha tomado vista de la situación Que desde la Secretaria de Hacienda/ Oficina de Presupuesto se indicó la imputación correspondiente al gasto en el Presupuesto en el año 2025.-
+POR ELLO:
+El Honorable Concejo Deliberante del Partido de Balcarce, en uso de sus atribuciones, sanciona la siguiente:
+ORDENANZA
