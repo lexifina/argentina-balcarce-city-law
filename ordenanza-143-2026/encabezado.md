@@ -1,0 +1,22 @@
+Ordenanza Nº143/26
+Ordenanza Nº 143/26
+Balcarce, 24/09/2026
+VISTO:
+El Expediente Administrativos Nº 9422/B/2026, “Solicita ampliación de arrendamiento de parcela cementerio Armando Simonetti, y;
+CONSIDERANDO:
+En fecha 13 de julio del corriente año, el Sr. Armando Simonetti se presentó ante la Dirección de Regularización Dominial, manifestando que oportunamente suscribió con la Municipalidad de Balcarce un contrato de arrendamiento de bóvedas, nicheras y panteones, por un plazo de veinte (20) años, contemplándose expresamente la posibilidad de su renovación indefinida.-
+Asimismo, manifestó que, una vez cumplido dicho plazo, la Municipalidad le informó que no resultaba posible otorgar la perpetuidad solicitada, procediéndose a la renovación del arrendamiento por un plazo determinado, motivo por el cual solicita al Honorable Concejo Deliberante una excepción que le permita acceder a un nuevo período de arrendamiento por veinte (20) años.-
+Conforme surge de la documentación obrante en las presentes actuaciones, en fecha 28 de noviembre de 2001 el Sr. Simonetti suscribió un contrato de arrendamiento por el plazo de veinte (20) años, estableciéndose expresamente la posibilidad de su renovación indefinida.-
+Posteriormente, en fecha 28 de noviembre de 2021, suscribió un nuevo convenio de arrendamiento por el plazo de cinco (5) años.-
+La cuestión a dilucidar radica en determinar si corresponde que la Administración, atendiendo a las condiciones expresamente establecidas en el contrato originario y a la conducta asumida por ella misma en oportunidad de su celebración, otorgue actualmente un plazo de arrendamiento superior al que habitualmente se concede para este tipo de inmuebles.-
+Que, de la compulsa de los antecedentes normativos obrantes en los archivos del Honorable Concejo Deliberante, se ha podido constatar la existencia de la Ordenanza Fiscal correspondiente al año 1979, en la cual se establecía para los lotes destinados a panteones un plazo de arrendamiento de veinte (20) años, mientras que la Ordenanza Nº 20/91 no contiene disposiciones específicas respecto de los arrendamientos de panteones.-
+En consecuencia, no se advierte de los antecedentes normativos relevados una disposición que determine, en forma expresa y actual, un plazo distinto al que fuera oportunamente establecido en el contrato suscripto por el interesado.-
+Si bien la Administración Pública se encuentra facultada para rectificar los errores materiales, de hecho o aritméticos en que pudiera incurrir, dicha facultad se encuentra limitada a aquellos supuestos en los que exista una discordancia entre la voluntad efectivamente adoptada y su exteriorización formal.-
+Ello se encuentra expresamente contemplado en el artículo 115 de la Ordenanza General Nº 267, el cual establece: “En cualquier momento podrán rectificarse los errores materiales o aritméticos”.-
+La rectificación material de un acto administrativo procede, en términos generales, cuando un acto válido en cuanto a su competencia, procedimiento y demás requisitos formales contiene un error de escritura, transcripción, expresión o cálculo, de modo tal que la voluntad real de la Administración resulta distinta de la que inadvertidamente fue exteriorizada.-
+En el caso bajo análisis, no se advierte que la estipulación contenida en el contrato celebrado en fecha 28 de noviembre de 2001 respecto del plazo de veinte (20) años y su posibilidad de renovación indefinida constituya un mero error material susceptible de ser rectificado, sino que se trató de una condición expresamente incorporada al vínculo contractual celebrado con el particular.-
+Esta Dirección entiende que las condiciones y plazos relativos al uso y ocupación de los espacios destinados a panteones, bóvedas y nicheras deben encontrar sustento en la normativa municipal vigente, correspondiendo al Honorable Concejo Deliberante establecer o autorizar, dentro del marco de sus competencias, aquellas condiciones que impliquen una excepción o modificación respecto del régimen aplicable.-
+En virtud de ello, y teniendo especialmente en consideración que la propia Administración Municipal estableció originariamente un plazo de veinte (20) años y contempló expresamente la posibilidad de renovación indefinida, esta Dirección considera atendible la solicitud formulada por el Sr. Simonetti, sin perjuicio de que la autorización correspondiente deba ser otorgada por el órgano competente.-
+POR ELLO:
+El Honorable Concejo Deliberante del Partido de Balcarce, en uso de sus atribuciones, sanciona la siguiente:
+ORDENANZA
